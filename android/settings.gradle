@@ -1,0 +1,3 @@
+rootProject.name = 'BonsaiApp'
+
+include ':app'
